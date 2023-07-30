@@ -14,14 +14,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/haadi-py/NewsletterForm.git)
-- Live Site URL: [](https://starlit-medovik-ead520.netlify.app/)
+- Solution URL: ![](https://github.com/haadi-py/NewsletterForm.git)
+- Live Site URL: ![](https://starlit-medovik-ead520.netlify.app/)
 
 ## Screenshots
-- [](/images/SS-Desktop.png)
-- [](/images/SS-Desktop-success.png)
-- [](/images/SS-Responsive.png)
-- [](/images/SS-Responsive-success.png)
+- ![](/images/SS-Desktop.png)
+- ![](/images/SS-Desktop-success.png)
+- ![](/images/SS-Responsive.png)
+- ![](/images/SS-Responsive-success.png)
 
 ### Built with
 
