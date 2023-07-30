@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <title>Coded by Haadi | Newsletter form</title>
+</head>
+<body>
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="https://www.frontendmentor.io/profile/haadi-py" target="_blank">Haadi</a>.
+  </div>
+  <section id="form" class="container">
+    
+    <div class="content">
+      <div class="written">
+        <h1 class="main-heading">Stay Updated!</h1>
+        <p class="main-para">Join 60,000+ product managers receiving monthly updates on:</p>
+      <div class="list">  
+        <img src="/assets/images/icon-list.svg" alt="check" class="checks"> <p>Product discovery and building what matters</p>
+      </div>
+      <div class="list">
+        <img src="/assets/images/icon-list.svg" alt="check" class="checks"> <p>Measuring to ensure updates are a success</p>
+      </div>
+      <div class="list">
+        <img src="/assets/images/icon-list.svg" alt="check" class="checks"> <p>And much more!</p>
+      </div> 
+    </div>
+    <div class="input-sec">
+      <form name="form1">
+      <span class="not-valid"><label for="txt-field" id="label-1">Email Address</label><p id="n-v">Valid email required!</p></span>
+      <input name="text1" id="txt-field" type="text" placeholder="Your email here">
+      <button class="btn" type="button" onclick="myFun(document.form1.text1); return false">Subscribe to monthly newsletter</button>
+      </form>
+    </div>  
+    </div>
+    <div class="img-cont"></div>
+  </section>
+
+  <section id="form-suc">
+    <div class="success-msg">
+      <img id="success-msg-img" src="/assets/images/icon-success.svg" alt="icon">
+      <h1 class="success-heading">Thanks for Subscribing!</h1>
+      <p class="success-para"> A confirmation email has been sent to <b>ash@loremcompany.com</b>. 
+        Please open it and click the button inside to confirm your subscription.</p>
+      <div class="btn-cont">
+        <button onclick="myFun1()" class="success-btn">Dismiss Message</button>  
+      </div>
+      </div>
+  </section>
+<script src="main.js"></script>
+
+ 
+  
+</body>
+</html>
