@@ -18,10 +18,10 @@ Users should be able to:
 - Live Site URL: [](https://starlit-medovik-ead520.netlify.app/)
 
 ## Screenshots
-- [](/assets/images/SS-Desktop.png)
-- [](/assets/images/SS-Desktop-success.png)
-- [](/assets/images/SS-Responsive.png)
-- [](/assets/images/SS-Responsive-success.png)
+- [](/images/SS-Desktop.png)
+- [](/images/SS-Desktop-success.png)
+- [](/images/SS-Responsive.png)
+- [](/images/SS-Responsive-success.png)
 
 ### Built with
 
