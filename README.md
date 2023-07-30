@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ![My solution here...](https://www.frontendmentor.io/solutions/newsletter-form-using-pure-html-css-and-vanilla-javascript-AMgbKByhtc)
-- Live Site URL: ![See my solution in action!](https://starlit-medovik-ead520.netlify.app/)
+- Solution URL: [My solution here...](https://www.frontendmentor.io/solutions/newsletter-form-using-pure-html-css-and-vanilla-javascript-AMgbKByhtc)
+- Live Site URL: [See my solution in action!](https://starlit-medovik-ead520.netlify.app/)
 
 ## Screenshots
 - ![](/images/SS-Desktop.png)
